@@ -24,5 +24,12 @@
     </platform>
     <icon density="mdpi" height="57" platform="android" src="www\img\favicon.png" width="57" />
     <splash src="www/img/logo.png" />
+    <plugin name="cordova-plugin-fullscreen" spec="^1.2.0" />
+    <plugin name="cordova-plugin-screen-orientation" spec="^3.0.1" />
+    <plugin name="cordova-plugin-splashscreen" spec="^5.0.2" />
+    <plugin name="cordova-plugin-whitelist" spec="^1.3.3" />
+    <plugin name="cordova-plugin-x-socialsharing" spec="^5.4.4">
+        <variable name="ANDROID_SUPPORT_V4_VERSION" value="24.1.1+" />
+    </plugin>
     <engine name="android" spec="^7.1.4" />
 </widget>
