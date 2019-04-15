@@ -1,0 +1,4 @@
+#Mon Apr 15 22:12:21 EET 2019
+base.0=E\:\\colordb\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

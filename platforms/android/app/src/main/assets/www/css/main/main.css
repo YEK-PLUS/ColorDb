@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Bubblegum+Sans");
+* {
+	user-select: none;
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+
+}
+body>*{
+	float:left;
+}
+.blur{
+	z-index: -1;
+	filter: blur(2px);
+}
