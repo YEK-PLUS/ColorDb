@@ -31,4 +31,5 @@
     <icon density="mdpi" height="57" platform="android" src="www\img\favicon.png" width="57" />
     <splash src="www/img/logo.png" />
     <plugin name="cordova-plugin-fullscreen" spec="^1.2.0" />
+    <engine name="android" spec="^7.1.4" />
 </widget>
