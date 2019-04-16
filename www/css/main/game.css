@@ -104,8 +104,12 @@
 #extra img{
   height: auto;
   width: 100%;
-
-  transform: rotate(5deg);
+  animation: rotate_logo infinite 4s;
+}
+@keyframes rotate_logo{
+  0%{transform: rotate(-2.5deg)}
+  50%{transform: rotate(2.5deg)}
+  100%{transform: rotate(-2.5deg)}
 }
 
 #moves{

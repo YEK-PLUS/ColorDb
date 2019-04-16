@@ -1,16 +1,19 @@
-$('body').on('click', '.btn', function(e){
+let playing = false;
+$("body").click(function(e){
   e.preventDefault();
-
+  if(!playing){
+    playing = true;
   setTimeout(function(){
     $(".blur").removeClass("blur");
     $(".pause").fadeOut();
   },250)
 
-  if ( $(this).hasClass('play') ) {
-    $(this).removeClass('play');
-    $(this).addClass('pause');
+  if ( $(".btn").hasClass('play') ) {
+    $(".btn").removeClass('play');
+    $(".btn").addClass('pause');
   } else {
-    $(this).removeClass('pause');
-    $(this).addClass('play');
+    $(".btn").removeClass('pause');
+    $(".btn").addClass('play');
+  }
   }
 });
