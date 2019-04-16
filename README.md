@@ -4,7 +4,7 @@ F4MED Game Studio Game
 
 ScreenShots                |  From                     | Game
 :-------------------------:|:-------------------------:|:-------------------------:
-![alt text](https://raw.githubusercontent.com/YEK-PLUS/colordb/master/www/img/1.PNG "1")  |  ![alt text](https://raw.githubusercontent.com/YEK-PLUS/colordb/master/www/img/2.PNG "2")  |  ![alt text](https://raw.githubusercontent.com/YEK-PLUS/colordb/master/www/img/3.PNG "3")
+![alt text](https://github.com/YEK-PLUS/ColorDb/blob/master/www/img/1.png?raw=true "1")  |  ![alt text](https://https://raw.githubusercontent.com/YEK-PLUS/ColorDb/master/www/img/2.png?token=ApVzz8YNOEI1E0dpMF9xSCPpFil8dmvAks5ctgEowA%3D%3D "2")  |  ![alt text](https://github.com/YEK-PLUS/ColorDb/blob/master/www/img/3.png?raw=true "3")
 
 
 
