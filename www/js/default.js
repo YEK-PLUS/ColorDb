@@ -24,8 +24,8 @@ document.addEventListener("deviceready", function(){
   AndroidFullScreen.immersiveMode();
   AndroidFullScreen.setSystemUiVisibility();
   AndroidFullScreen.showUnderSystemUI();
-  admob.banner.config({id:"ca-app-pub-4324641283707053/5267229541"});
-  admob.banner.prepare()
+  //admob.banner.config({id:"ca-app-pub-4324641283707053/5267229541"});
+  //admob.banner.prepare()
   GameCreate();
 }, false);
 
